@@ -19,3 +19,14 @@ This project demonstrates the usage of OTP (One-Time Password) for user authenti
 3. Customize the views, notifications, and messages according to your application's design and requirements.
 4. Test the OTP functionality thoroughly to ensure it works as expected.
 5. Consider security measures such as rate limiting, encryption, and secure storage of OTPs to protect against misuse or theft.
+-----------------------
+
+![Screenshot_2023_08_27-1](https://github.com/ebrahimabdallah/Laravel-OTP/assets/119238955/c5af8b99-0a36-493b-80e6-f0cfa99ad01e)
+
+
+![photo_2023-08-27_05-26-00](https://github.com/ebrahimabdallah/Laravel-OTP/assets/119238955/aceb1a52-4f50-4cde-bdbd-5d84549d3d31)
+
+![Screenshot_2023_08_27-2](https://github.com/ebrahimabdallah/Laravel-OTP/assets/119238955/37658bda-7579-48bd-9501-abadb4d99614)
+
+
+![Screenshot_2023_08_27-3](https://github.com/ebrahimabdallah/Laravel-OTP/assets/119238955/2268a260-8978-411c-9c55-1e2a446aae89)
